@@ -4,3 +4,6 @@
 [submodule "background_worker"]
 	path = background_worker
 	url = https://github.com/PoyarkinES/background_worker.git
+[submodule "Unadesk.Api.Client"]
+	path = Unadesk.Api.Client
+	url = https://github.com/PoyarkinES/Unadesk.Api.Client.git
