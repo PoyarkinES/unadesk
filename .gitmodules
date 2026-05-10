@@ -1,0 +1,6 @@
+[submodule "api_gateway"]
+	path = api_gateway
+	url = https://github.com/PoyarkinES/api_gateway.git
+[submodule "background_worker"]
+	path = background_worker
+	url = https://github.com/PoyarkinES/background_worker.git
